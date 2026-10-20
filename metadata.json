@@ -1,0 +1,6 @@
+{
+  "name": "SteamWise Tracker - Android Playtime Tracker Studio",
+  "description": "Production-ready Android game playtime tracker app built with Kotlin, Jetpack Compose, Room Database, and UsageStatsManager background foreground service, featuring an interactive Steam-themed simulator and full project code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
